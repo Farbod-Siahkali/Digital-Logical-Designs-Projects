@@ -1,1 +1,1 @@
-# Digital-Logical-Designs-Projects
+# Digital Logical Designs Projects
