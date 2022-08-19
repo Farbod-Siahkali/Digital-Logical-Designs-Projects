@@ -17,17 +17,19 @@
 
 ### Computer Assignment 4
 
+---------------------------------------------------------------------------
 ### Computer Assignment 5: 10010 detector
 
 Moore Machine diagram:
 
-<img src = "https://user-images.githubusercontent.com/89969561/185650862-19cdc22f-d030-498b-a89e-a44c98af0d1a.png" width = "30%">
+<img src = "https://user-images.githubusercontent.com/89969561/185650862-19cdc22f-d030-498b-a89e-a44c98af0d1a.png" width = "40%">
 
 Mealy Machine diagram:
 
-<img src = "https://user-images.githubusercontent.com/89969561/185651187-f052a9be-3e2e-43c5-ab14-3c6fc71d739e.png" width = "30%">
+<img src = "https://user-images.githubusercontent.com/89969561/185651187-f052a9be-3e2e-43c5-ab14-3c6fc71d739e.png" width = "40%">
 
+---------------------------------------------------------------------------
 ### Computer Assignment 6: Sequential Multiplier
 #### Datapath & Controller:
-<img src = "https://user-images.githubusercontent.com/89969561/185650056-89a16ccd-75be-497c-859c-ebe47e3f0729.png" width = "30%">
+<img src = "https://user-images.githubusercontent.com/89969561/185650056-89a16ccd-75be-497c-859c-ebe47e3f0729.png" width = "40%">
 
