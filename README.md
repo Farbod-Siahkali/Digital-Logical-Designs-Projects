@@ -9,12 +9,16 @@
 * [CA5 - State Machine Coding, Pre- and Post-Synthesis](https://github.com/Farbod-Siahkali/Digital-Logical-Designs-Projects/tree/main/CA5%20-%20State%20Machine%20Coding%2C%20Pre-%20and%20Post-Synthesis)
 * [CA6 - Hierarchical RTL Design](https://github.com/Farbod-Siahkali/Digital-Logical-Designs-Projects/tree/main/CA6%20-%20Hierarchical%20RTL%20Design)
 
+---------------------------------------------------------------------------
 ### Computer Assignment 1
 
+---------------------------------------------------------------------------
 ### Computer Assignment 2
 
+---------------------------------------------------------------------------
 ### Computer Assignment 3
 
+---------------------------------------------------------------------------
 ### Computer Assignment 4
 
 ---------------------------------------------------------------------------
